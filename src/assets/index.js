@@ -83,6 +83,6 @@ export {
   rpmFrontend,
   aserhiProject,
   perfil,
-  candado,
-  dataBase
+  candado
+
 };
