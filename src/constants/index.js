@@ -31,8 +31,7 @@ import {
   linkedin,
   gmail,
   aserhiProject,
-  candado,
-  dataBase
+
 } from "../assets";
 
 export const navLinks = [

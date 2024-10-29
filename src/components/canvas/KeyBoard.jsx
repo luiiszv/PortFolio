@@ -4,7 +4,7 @@ import { OrbitControls, Preload, useGLTF } from "@react-three/drei";
 import CanvasLoader from "../Loader";
 
 const KeyBoard = () => {
-    const keyBoard = useGLTF('/keyboard/scene.gltf');
+ const keyBoard = useGLTF('/PortFolio/keyboard/scene.gltf');
     return (
         <mesh>
             {/* Luz ambiental para iluminar suavemente toda la escena */}

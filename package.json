@@ -1,7 +1,6 @@
 {
   "name": "portfolio",
   "private": true,
-  "homepage": "https://luiiszv.github.io/PortFolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
