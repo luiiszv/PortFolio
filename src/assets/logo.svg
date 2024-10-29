@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1122 1122" style="enable-background:new 0 0 1122 1122;" xml:space="preserve">
+<g id="BG">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="561" x2="1122" y2="561">
+		<stop  offset="0" style="stop-color:#91C5C8"/>
+		<stop  offset="1" style="stop-color:#78BCE3"/>
+	</linearGradient>
+	<rect style="fill:url(#SVGID_1_);" width="1122" height="1122"/>
+</g>
+<g id="Alphabet_1_">
+	<g>
+		
+			<linearGradient id="SVGID_00000016038908530126699160000015055636370996659622_" gradientUnits="userSpaceOnUse" x1="343.5103" y1="886.3237" x2="784.1997" y2="886.3237">
+			<stop  offset="0" style="stop-color:#D15B30"/>
+			<stop  offset="1" style="stop-color:#DE902F"/>
+		</linearGradient>
+		<polygon style="fill:url(#SVGID_00000016038908530126699160000015055636370996659622_);" points="343.51,845.774 423.988,926.873 
+			784.2,926.873 703.898,846.465 		"/>
+		
+			<linearGradient id="SVGID_00000142878962002402060540000001076813316597340597_" gradientUnits="userSpaceOnUse" x1="703.8984" y1="821.3469" x2="806.9344" y2="821.3469">
+			<stop  offset="0" style="stop-color:#F5DB3A"/>
+			<stop  offset="1" style="stop-color:#DD8D79"/>
+		</linearGradient>
+		<polygon style="fill:url(#SVGID_00000142878962002402060540000001076813316597340597_);" points="726.515,717.18 806.934,797.599 
+			784.2,925.514 703.898,845.446 		"/>
+		
+			<linearGradient id="SVGID_00000029045298198708429790000012143060861834471842_" gradientUnits="userSpaceOnUse" x1="493.6102" y1="501.6999" x2="664.1993" y2="501.6999">
+			<stop  offset="0" style="stop-color:#F5DB3A"/>
+			<stop  offset="1" style="stop-color:#DD8D79"/>
+		</linearGradient>
+		<polygon style="fill:url(#SVGID_00000029045298198708429790000012143060861834471842_);" points="583.78,205.801 664.199,286.22 
+			574.029,797.599 493.61,717.18 		"/>
+		<path style="fill:#F5DB3A;" d="M456.356,206.378H583.78l-90.17,511.379h232.905l-22.617,128.266H343.569L456.356,206.378z"/>
+	</g>
+</g>
+</svg>
